@@ -1,0 +1,676 @@
+key,value,source
+AUROCCal,98.16,s4_calibration
+AUROCEnergy,83.20,s4_calibration
+AUROCMSP,98.12,s4_calibration
+AblCenterCVAcc,99.27 +- 0.12,s2_main
+AblCenterCVAccMean,99.27,derived
+AblCenterCVF1,99.16 +- 0.15,s2_main
+AblCenterCVF1Mean,99.16,derived
+AblCenterTestAcc,99.23,s2_main
+AblCenterTestF1,99.12,s2_main
+AblLargeCVAcc,99.26 +- 0.12,s2_main
+AblLargeCVAccMean,99.26,derived
+AblLargeCVF1,99.13 +- 0.16,s2_main
+AblLargeCVF1Mean,99.13,derived
+AblLargeParams,"52,634",s2_main
+AblLargeTestAcc,99.24,s2_main
+AblLargeTestF1,99.11,s2_main
+AblNoDropCVAcc,99.22 +- 0.10,s2_main
+AblNoDropCVAccMean,99.22,derived
+AblNoDropCVF1,99.09 +- 0.11,s2_main
+AblNoDropCVF1Mean,99.09,derived
+AblNoDropTestAcc,99.11,s2_main
+AblNoDropTestF1,98.98,s2_main
+AblSmallCVAcc,98.95 +- 0.14,s2_main
+AblSmallCVAccMean,98.95,derived
+AblSmallCVF1,98.78 +- 0.18,s2_main
+AblSmallCVF1Mean,98.78,derived
+AblSmallParams,"7,034",s2_main
+AblSmallTestAcc,99.03,s2_main
+AblSmallTestF1,98.90,s2_main
+AnglesSurreySpread,3.08,s8_seeds
+BlockAcc100,98.40,s9a_neardup
+BlockAcc200,97.94,s9a_neardup
+BlockAcc25,98.90,s9a_neardup
+BlockAcc400,98.04,s9a_neardup
+BlockAcc50,98.86,s9a_neardup
+BlockDup100,36.1,s9a_neardup
+BlockDup200,28.3,s9a_neardup
+BlockDup25,54.8,s9a_neardup
+BlockDup400,24.2,s9a_neardup
+BlockDup50,42.9,s9a_neardup
+BrierCal,0.0147,s4_calibration
+BrierRaw,0.0147,s4_calibration
+CNNCropTestAcc,99.88,s7_cnn_crop
+CNNCropTestF1,99.88,s7_cnn_crop
+CNNCropTrainMin,11,s7_cnn_crop
+CNNFPS,180,s5_cnn
+CNNLat,5.55,s5_cnn
+CNNMLPParamRatio,124,derived
+CNNParams,"2,257,178",s5_cnn
+CNNSize,8790.5,s5_cnn
+CNNTestAcc,99.94,s5_cnn
+CNNTestF1,99.94,s5_cnn
+CNNTrainMin,117,s5_cnn
+ConfusedRows,M N 18 5.75; N M 13 5.10; W V 9 1.83; Q P 6 1.43; T A 3 0.64,s2_main
+CrossSurreyCNN,5.95,s5_cnn
+CrossSurreyCNNAll,5.61,s5_cnn
+CrossSurreyCNNCrop,28.43,s7_cnn_crop
+CrossSurreyCNNCropF1,25.06,s7_cnn_crop
+CrossSurreyCNNF1,3.01,s5_cnn
+CrossSurreyClasses,24,s3_generalization
+CrossSurreyMLPangles,49.43 +- 1.58,s8_seeds
+CrossSurreyMLPanglesF1,47.19,s3_generalization
+CrossSurreyMLPanglesMean,49.43,s8_seeds
+CrossSurreyMLPhybrid,20.48 +- 1.80,s8_seeds
+CrossSurreyMLPhybridF1,17.56,s3_generalization
+CrossSurreyMLPhybridMean,20.48,s8_seeds
+CrossSurreyMLPnorm,18.48 +- 3.21,s8_seeds
+CrossSurreyMLPnormF1,18.17,s3_generalization
+CrossSurreyMLPnormMean,18.48,s8_seeds
+CrossSurreyMLPraw,20.41 +- 2.24,s8_seeds
+CrossSurreyMLPrawF1,14.37,s3_generalization
+CrossSurreyMLPrawMean,20.41,s8_seeds
+CrossSurreyMLProt,21.51 +- 3.13,s8_seeds
+CrossSurreyMLProtF1,15.40,s3_generalization
+CrossSurreyMLProtMean,21.51,s8_seeds
+CrossSurreyN,"59,206",s3_generalization
+CrossSurreySVMnorm,13.76,s3_generalization
+CrossSurreySVMnormF1,7.55,s3_generalization
+CrossTestCNN,30.94,s5_cnn
+CrossTestCNNAll,31.15,s5_cnn
+CrossTestCNNCrop,75.72,s7_cnn_crop
+CrossTestCNNCropF1,74.16,s7_cnn_crop
+CrossTestCNNF1,27.26,s5_cnn
+CrossTestClasses,26,s3_generalization
+CrossTestDetected,766 of 780,derived
+CrossTestMLPangles,84.18 +- 1.71,s8_seeds
+CrossTestMLPanglesF1,85.76,s3_generalization
+CrossTestMLPanglesMean,84.18,s8_seeds
+CrossTestMLPhybrid,91.36 +- 1.49,s8_seeds
+CrossTestMLPhybridF1,90.18,s3_generalization
+CrossTestMLPhybridMean,91.36,s8_seeds
+CrossTestMLPnorm,89.16 +- 1.10,s8_seeds
+CrossTestMLPnormEtoe,87.56,derived
+CrossTestMLPnormF1,86.39,s3_generalization
+CrossTestMLPnormMean,89.16,s8_seeds
+CrossTestMLPraw,91.07 +- 0.26,s8_seeds
+CrossTestMLPrawF1,90.70,s3_generalization
+CrossTestMLPrawMean,91.07,s8_seeds
+CrossTestMLProt,82.69 +- 0.80,s8_seeds
+CrossTestMLProtF1,82.31,s3_generalization
+CrossTestMLProtMean,82.69,s8_seeds
+CrossTestN,766,s3_generalization
+CrossTestSVMnorm,86.68,s3_generalization
+CrossTestSVMnormF1,84.95,s3_generalization
+DetAlphabetAll,84.19,s2_main
+DetAlphabetDefault,77.37,s2_main
+DetAlphabetDefaultMiss,22.63,derived
+DetAlphabetFlip,0.63,s2_main
+DetAlphabetLowconf,1.04,s2_main
+DetAlphabetN,"78,000",s2_main
+DetAlphabetPad,5.06,s2_main
+DetAlphabetUpscale,0.09,s2_main
+DetRate,77.37,s2_main
+DetSurreyAll,90.01,s3_generalization
+DetSurreyDefault,69.76,s3_generalization
+DetSurreyFlip,0.53,s3_generalization
+DetSurreyLowconf,1.33,s3_generalization
+DetSurreyN,"65,774",s3_generalization
+DetSurreyPad,18.25,s3_generalization
+DetSurreyUpscale,0.14,s3_generalization
+DetTestAll,98.21,s3_generalization
+DetTestDefault,95.38,s3_generalization
+DetTestFlip,0.26,s3_generalization
+DetTestLowconf,0.13,s3_generalization
+DetTestN,780,s3_generalization
+DetTestPad,2.31,s3_generalization
+DetTestUpscale,0.13,s3_generalization
+DupFrameGapMedian,2,s9a_neardup
+DupFrameGapP90,16,s9a_neardup
+DupSSIMLow,0.833,s9a_neardup
+DupSSIMMedian,0.911,s9a_neardup
+ECECal,0.26,s4_calibration
+ECERaw,0.17,s4_calibration
+EndToEndAfter,82.98,s2_main
+EndToEndBefore,76.60,s2_main
+FPR95Cal,5.95,s4_calibration
+FPR95Energy,57.82,s4_calibration
+FPR95MSP,6.13,s4_calibration
+FeatAnglesCVAcc,97.30 +- 0.24,s2_main
+FeatAnglesCVAccMean,97.30,derived
+FeatAnglesCVF1,97.11 +- 0.25,s2_main
+FeatAnglesCVF1Mean,97.11,derived
+FeatAnglesTestAcc,97.13,s2_main
+FeatAnglesTestF1,96.96,s2_main
+FeatHybridCVAcc,99.11 +- 0.08,s2_main
+FeatHybridCVAccMean,99.11,derived
+FeatHybridCVF1,98.95 +- 0.09,s2_main
+FeatHybridCVF1Mean,98.95,derived
+FeatHybridTestAcc,98.87,s2_main
+FeatHybridTestF1,98.65,s2_main
+FeatLat,0.008,s2_main
+FeatRotCVAcc,98.42 +- 0.09,s2_main
+FeatRotCVAccMean,98.42,derived
+FeatRotCVF1,98.30 +- 0.10,s2_main
+FeatRotCVF1Mean,98.30,derived
+FeatRotTestAcc,98.07,s2_main
+FeatRotTestF1,97.93,s2_main
+FingerDropIndex,60.8,s2_main
+FingerDropLittle,31.1,s2_main
+FingerDropMiddle,41.4,s2_main
+FingerDropRing,28.1,s2_main
+FingerDropThumb,47.7,s2_main
+HandAlphabetLeft,97.3,s6_handedness
+HandBanglesCanonB,97.32 +- 0.16,s8_seeds
+HandBanglesCanonBMean,97.32,derived
+HandBanglesCanonBStd,0.16,s8_seeds
+HandBanglesMirrorB,97.83 +- 0.16,s8_seeds
+HandBanglesMirrorBMean,97.83,derived
+HandBanglesMirrorBStd,0.16,s8_seeds
+HandBanglesPlainB,97.24 +- 0.10,s8_seeds
+HandBanglesPlainBMean,97.24,derived
+HandBanglesPlainBStd,0.10,s8_seeds
+HandBhybridCanonB,98.88 +- 0.06,s8_seeds
+HandBhybridCanonBMean,98.88,derived
+HandBhybridCanonBStd,0.06,s8_seeds
+HandBhybridMirrorB,98.98 +- 0.11,s8_seeds
+HandBhybridMirrorBMean,98.98,derived
+HandBhybridMirrorBStd,0.11,s8_seeds
+HandBhybridPlainB,98.99 +- 0.10,s8_seeds
+HandBhybridPlainBMean,98.99,derived
+HandBhybridPlainBStd,0.10,s8_seeds
+HandBnormCanonB,98.94 +- 0.16,s8_seeds
+HandBnormCanonBMean,98.94,derived
+HandBnormCanonBStd,0.16,s8_seeds
+HandBnormMirrorB,99.09 +- 0.06,s8_seeds
+HandBnormMirrorBMean,99.09,derived
+HandBnormMirrorBStd,0.06,s8_seeds
+HandBnormPlainB,99.16 +- 0.09,s8_seeds
+HandBnormPlainBMean,99.16,derived
+HandBnormPlainBStd,0.09,s8_seeds
+HandSurreyLeft,1.3,s6_handedness
+HandTestLeft,98.7,s6_handedness
+HandXanglesCanonSurrey,47.92 +- 1.16,s8_seeds
+HandXanglesCanonSurreyMean,47.92,derived
+HandXanglesCanonSurreyStd,1.16,s8_seeds
+HandXanglesCanonTest,83.00 +- 0.64,s8_seeds
+HandXanglesCanonTestMean,83.00,derived
+HandXanglesCanonTestStd,0.64,s8_seeds
+HandXanglesMirrorSurrey,46.35 +- 1.58,s8_seeds
+HandXanglesMirrorSurreyMean,46.35,derived
+HandXanglesMirrorSurreyStd,1.58,s8_seeds
+HandXanglesMirrorTest,81.72 +- 1.89,s8_seeds
+HandXanglesMirrorTestMean,81.72,derived
+HandXanglesMirrorTestStd,1.89,s8_seeds
+HandXanglesPlainSurrey,49.43 +- 1.58,s8_seeds
+HandXanglesPlainSurreyMean,49.43,derived
+HandXanglesPlainSurreyStd,1.58,s8_seeds
+HandXanglesPlainTest,84.18 +- 1.71,s8_seeds
+HandXanglesPlainTestMean,84.18,derived
+HandXanglesPlainTestStd,1.71,s8_seeds
+HandXhybridCanonSurrey,51.94 +- 1.61,s8_seeds
+HandXhybridCanonSurreyMean,51.94,derived
+HandXhybridCanonSurreyStd,1.61,s8_seeds
+HandXhybridCanonTest,90.34 +- 0.40,s8_seeds
+HandXhybridCanonTestMean,90.34,derived
+HandXhybridCanonTestStd,0.40,s8_seeds
+HandXhybridMirrorSurrey,52.94 +- 0.59,s8_seeds
+HandXhybridMirrorSurreyMean,52.94,derived
+HandXhybridMirrorSurreyStd,0.59,s8_seeds
+HandXhybridMirrorTest,88.36 +- 0.98,s8_seeds
+HandXhybridMirrorTestMean,88.36,derived
+HandXhybridMirrorTestStd,0.98,s8_seeds
+HandXhybridPlainSurrey,20.48 +- 1.80,s8_seeds
+HandXhybridPlainSurreyMean,20.48,derived
+HandXhybridPlainSurreyStd,1.80,s8_seeds
+HandXhybridPlainTest,91.36 +- 1.49,s8_seeds
+HandXhybridPlainTestMean,91.36,derived
+HandXhybridPlainTestStd,1.49,s8_seeds
+HandXnormCanonSurrey,51.86 +- 1.60,s8_seeds
+HandXnormCanonSurreyMean,51.86,derived
+HandXnormCanonSurreyStd,1.60,s8_seeds
+HandXnormCanonTest,88.72 +- 1.86,s8_seeds
+HandXnormCanonTestMean,88.72,derived
+HandXnormCanonTestStd,1.86,s8_seeds
+HandXnormMirrorSurrey,52.23 +- 0.74,s8_seeds
+HandXnormMirrorSurreyMean,52.23,derived
+HandXnormMirrorSurreyStd,0.74,s8_seeds
+HandXnormMirrorTest,87.94 +- 1.39,s8_seeds
+HandXnormMirrorTestEtoe,86.36,derived
+HandXnormMirrorTestMean,87.94,derived
+HandXnormMirrorTestStd,1.39,s8_seeds
+HandXnormPlainSurrey,18.48 +- 3.21,s8_seeds
+HandXnormPlainSurreyMean,18.48,derived
+HandXnormPlainSurreyStd,3.21,s8_seeds
+HandXnormPlainTest,89.16 +- 1.10,s8_seeds
+HandXnormPlainTestMean,89.16,derived
+HandXnormPlainTestStd,1.10,s8_seeds
+HandXrawPlainSurrey,20.41 +- 2.24,s8_seeds
+HandXrawPlainSurreyMean,20.41,derived
+HandXrawPlainSurreyStd,2.24,s8_seeds
+HandXrawPlainTest,91.07 +- 0.26,s8_seeds
+HandXrawPlainTestMean,91.07,derived
+HandXrawPlainTestStd,0.26,s8_seeds
+HandXrotPlainSurrey,21.51 +- 3.13,s8_seeds
+HandXrotPlainSurreyMean,21.51,derived
+HandXrotPlainSurreyStd,3.13,s8_seeds
+HandXrotPlainTest,82.69 +- 0.80,s8_seeds
+HandXrotPlainTestMean,82.69,derived
+HandXrotPlainTestStd,0.80,s8_seeds
+Hardware,Intel Core i9-12900,s2_main
+HighDetClasses,"F (95.9%), K (90.0%), Y (86.2%)",s2_main
+ImgRes,200x200,s2_main
+KNNCVAcc,98.97 +- 0.12,s2_main
+KNNCVAccMean,98.97,derived
+KNNCVF1,98.73 +- 0.15,s2_main
+KNNCVF1Mean,98.73,derived
+KNNLat,1.502,s2_main
+KNNSize,12258.7,s2_main
+KNNTestAcc,98.86,s2_main
+KNNTestF1,98.60,s2_main
+LRCVAcc,98.83 +- 0.14,s2_main
+LRCVAccMean,98.83,derived
+LRCVF1,98.64 +- 0.18,s2_main
+LRCVF1Mean,98.64,derived
+LRLat,0.213,s2_main
+LRParams,"1,664",s2_main
+LRSize,9.4,s2_main
+LRTestAcc,98.73,s2_main
+LRTestF1,98.56,s2_main
+LowDetClasses,"N (42.5%), M (52.2%), C (66.3%)",s2_main
+MLPAugTestAcc,99.27,s2_main
+MLPAugTestF1,99.17,s2_main
+MLPCVAcc,99.23 +- 0.18,s2_main
+MLPCVAccMean,99.23,derived
+MLPCVF1,99.11 +- 0.20,s2_main
+MLPCVF1Mean,99.11,derived
+MLPEpochs,25,s2_main
+MLPEpochsRun,35,s2_main
+MLPInt8Acc,98.67,s2_main
+MLPInt8Agree,99.23,s2_main
+MLPInt8Lat,0.012,s2_main
+MLPInt8Size,21.4,s2_main
+MLPLat,0.009,s2_main
+MLPParams,"18,138",s2_main
+MLPRawCVAcc,98.98 +- 0.16,s2_main
+MLPRawCVAccMean,98.98,derived
+MLPRawCVF1,98.80 +- 0.19,s2_main
+MLPRawCVF1Mean,98.80,derived
+MLPRawLat,0.009,s2_main
+MLPRawSize,71.5,s2_main
+MLPRawTestAcc,98.89,s2_main
+MLPRawTestF1,98.73,s2_main
+MLPSize,71.5,s2_main
+MLPTestAcc,99.01,s2_main
+MLPTestF1,98.83,s2_main
+MLPTestPrec,98.82,s2_main
+MLPTestRec,98.84,s2_main
+MPLat,20.5,s2_main
+MPLatTrack,9.6,s2_main
+MPLatVGA,20.5,s2_main
+MaxPerClass,"2,876",s2_main
+McNemarCNN,<0.001,s5_cnn
+McNemarCNNCrop,<0.001,s7_cnn_crop
+McNemarCNNCropHolm,<0.008,derived
+McNemarCNNCropb,2,s7_cnn_crop
+McNemarCNNCropc,108,s7_cnn_crop
+McNemarCNNHolm,<0.008,derived
+McNemarCNNb,7,s5_cnn
+McNemarCNNc,120,s5_cnn
+McNemarCount,8,derived
+McNemarFeatHybrid,0.109,s2_main
+McNemarFeatHybridHolm,0.545,derived
+McNemarFeatHybridb,52,s2_main
+McNemarFeatHybridc,36,s2_main
+McNemarKNN,0.159,s2_main
+McNemarKNNHolm,0.545,derived
+McNemarKNNb,73,s2_main
+McNemarKNNc,56,s2_main
+McNemarLR,0.002,s2_main
+McNemarLRHolm,0.012,derived
+McNemarLRb,71,s2_main
+McNemarLRc,38,s2_main
+McNemarMLPRaw,0.130,s2_main
+McNemarMLPRawHolm,0.545,derived
+McNemarMLPRawb,44,s2_main
+McNemarMLPRawc,30,s2_main
+McNemarRF,1.000,s2_main
+McNemarRFHolm,1.000,derived
+McNemarRFb,60,s2_main
+McNemarRFc,59,s2_main
+McNemarSVM,0.142,s2_main
+McNemarSVMHolm,0.545,derived
+McNemarSVMb,53,s2_main
+McNemarSVMc,38,s2_main
+MinPerClass,"1,276",s2_main
+NLLCal,0.0352,s4_calibration
+NLLRaw,0.0356,s4_calibration
+NearDup0,49.5,s3_generalization
+NearDup2,92.0,s3_generalization
+NearDup5,99.6,s3_generalization
+NearDupMedian,1,s3_generalization
+NearDupRandom2,92.0,s9a_neardup
+NumAbove99Classes,17,s2_main
+NumBlocks,760,s3_generalization
+NumCores,24,s2_main
+NumDetected,"60,347",s2_main
+NumImages,"78,000",s2_main
+NumPerfectClasses,1,s2_main
+NumSeeds,5,s8_seeds
+NumTestB,"12,070",s2_main
+NumTestErrors,120,s2_main
+NumTrainB,"48,277",s2_main
+OpFixedCoverage,98.56,s4_calibration
+OpFixedSelAcc,99.63,s4_calibration
+OpFixedUnkReject,63.53,s4_calibration
+OpTunedCoverage,99.52,s4_calibration
+OpTunedSelAcc,99.31,s4_calibration
+OpTunedUnkReject,30.25,s4_calibration
+PairErrAngles,0.21,s2_main
+PairErrAug,0.00,s2_main
+PairErrHybrid,0.00,s2_main
+PairErrNAngles,6,s2_main
+PairErrNAug,0,s2_main
+PairErrNHybrid,0,s2_main
+PairErrNNorm,0,s2_main
+PairErrNRaw,0,s2_main
+PairErrNRot,4,s2_main
+PairErrNorm,0.00,s2_main
+PairErrRaw,0.00,s2_main
+PairErrRot,0.14,s2_main
+PipeFPS,49,s2_main
+PipeFPSVideo,104,s2_main
+PipeLat,20.5,s2_main
+PipeLatVideo,9.6,s2_main
+QualPredA,L,s2_main
+QualPredB,Z,s2_main
+QualPredC,P,s2_main
+QualPredD,Q,s2_main
+QualPredE,G,s2_main
+QualPredF,O,s2_main
+QualPredG,E,s2_main
+QualPredH,R,s2_main
+QualTrueA,L,s2_main
+QualTrueB,Z,s2_main
+QualTrueC,P,s2_main
+QualTrueD,Q,s2_main
+QualTrueE,G,s2_main
+QualTrueF,O,s2_main
+QualTrueG,T,s2_main
+QualTrueH,U,s2_main
+RFCVAcc,99.08 +- 0.11,s2_main
+RFCVAccMean,99.08,derived
+RFCVF1,98.86 +- 0.14,s2_main
+RFCVF1Mean,98.86,derived
+RFLat,9.408,s2_main
+RFSize,180089.4,s2_main
+RFTestAcc,99.00,s2_main
+RFTestF1,98.75,s2_main
+RandSSIMMedian,0.574,s9a_neardup
+RecoveredAcc,93.56,s2_main
+RecoveredN,"5,323",s2_main
+RobCleanAngles,97.13,s2_main
+RobCleanAug,99.27,s2_main
+RobCleanHybrid,98.87,s2_main
+RobCleanNorm,99.01,s2_main
+RobCleanRaw,98.89,s2_main
+RobCleanRot,98.07,s2_main
+RobNoise1Angles,95.41,s2_main
+RobNoise1Aug,99.16,s2_main
+RobNoise1Hybrid,98.79,s2_main
+RobNoise1Norm,99.00,s2_main
+RobNoise1Raw,98.80,s2_main
+RobNoise1Rot,97.89,s2_main
+RobNoise2Angles,89.27,s2_main
+RobNoise2Aug,98.89,s2_main
+RobNoise2Hybrid,98.40,s2_main
+RobNoise2Norm,98.62,s2_main
+RobNoise2Raw,98.47,s2_main
+RobNoise2Rot,96.67,s2_main
+RobNoise3Angles,66.25,s2_main
+RobNoise3Aug,96.79,s2_main
+RobNoise3Hybrid,95.48,s2_main
+RobNoise3Norm,96.87,s2_main
+RobNoise3Raw,96.54,s2_main
+RobNoise3Rot,91.51,s2_main
+RobRot10Angles,97.13,s2_main
+RobRot10Aug,99.07,s2_main
+RobRot10Hybrid,98.14,s2_main
+RobRot10Norm,98.09,s2_main
+RobRot10Raw,97.87,s2_main
+RobRot10Rot,98.07,s2_main
+RobRot20Angles,97.13,s2_main
+RobRot20Aug,98.21,s2_main
+RobRot20Hybrid,93.26,s2_main
+RobRot20Norm,87.85,s2_main
+RobRot20Raw,89.10,s2_main
+RobRot20Rot,98.07,s2_main
+RobRot30Angles,97.13,s2_main
+RobRot30Aug,95.31,s2_main
+RobRot30Hybrid,80.33,s2_main
+RobRot30Norm,64.25,s2_main
+RobRot30Raw,64.66,s2_main
+RobRot30Rot,98.07,s2_main
+RobRot45Angles,97.13,s2_main
+RobRot45Aug,73.78,s2_main
+RobRot45Hybrid,55.51,s2_main
+RobRot45Norm,24.24,s2_main
+RobRot45Raw,29.44,s2_main
+RobRot45Rot,98.07,s2_main
+RuntimeMain,12,s2_main
+SVMCVAcc,99.03 +- 0.12,s2_main
+SVMCVAccMean,99.03,derived
+SVMCVF1,98.86 +- 0.13,s2_main
+SVMCVF1Mean,98.86,derived
+SVMLat,0.588,s2_main
+SVMSize,4117.2,s2_main
+SVMTestAcc,98.88,s2_main
+SVMTestF1,98.72,s2_main
+SeedStdMax,3.2,s8_seeds
+SeedStdMedian,1.5,s8_seeds
+SelAcc90,99.97,s4_calibration
+SelAcc95,99.94,s4_calibration
+SelAcc99,99.54,s4_calibration
+ShiftAcc,90.86,s4_calibration
+ShiftCoverage,98.30,s4_calibration
+ShiftECE,4.61,s4_calibration
+ShiftSelAcc,91.24,s4_calibration
+SigAAcc,88.9,s11a_signers
+SigAAccdefault,87.1,s11a_signers
+SigADetall,81.7,s11a_signers
+SigADetdefault,53.9,s11a_signers
+SigAE2e,72.6,s11a_signers
+SigAE2edefault,47.0,s11a_signers
+SigAN,"12,547",s11a_signers
+SigAName,A,s11a_signers
+SigBAcc,90.8,s11a_signers
+SigBAccdefault,89.7,s11a_signers
+SigBDetall,95.6,s11a_signers
+SigBDetdefault,83.0,s11a_signers
+SigBE2e,86.8,s11a_signers
+SigBE2edefault,74.4,s11a_signers
+SigBN,"13,898",s11a_signers
+SigBName,B,s11a_signers
+SigCAcc,94.6,s11a_signers
+SigCAccdefault,94.8,s11a_signers
+SigCDetall,93.4,s11a_signers
+SigCDetdefault,75.6,s11a_signers
+SigCE2e,88.3,s11a_signers
+SigCE2edefault,71.7,s11a_signers
+SigCN,"13,393",s11a_signers
+SigCName,C,s11a_signers
+SigDAcc,86.4,s11a_signers
+SigDAccdefault,81.8,s11a_signers
+SigDDetall,82.7,s11a_signers
+SigDDetdefault,55.3,s11a_signers
+SigDE2e,71.5,s11a_signers
+SigDE2edefault,45.3,s11a_signers
+SigDN,"13,154",s11a_signers
+SigDName,D,s11a_signers
+SigEAcc,92.2,s11a_signers
+SigEAccdefault,91.6,s11a_signers
+SigEDetall,96.1,s11a_signers
+SigEDetdefault,79.7,s11a_signers
+SigEE2e,88.6,s11a_signers
+SigEE2edefault,73.0,s11a_signers
+SigEN,"12,782",s11a_signers
+SigEName,E,s11a_signers
+SigMaxAcc,94.6,s11a_signers
+SigMaxAccdefault,94.8,s11a_signers
+SigMaxDetall,96.1,s11a_signers
+SigMaxDetdefault,83.0,s11a_signers
+SigMaxE2e,88.6,s11a_signers
+SigMaxE2edefault,74.4,s11a_signers
+SigMeanAcc,90.6,s11a_signers
+SigMeanAccdefault,89.0,s11a_signers
+SigMeanDetall,89.9,s11a_signers
+SigMeanDetdefault,69.5,s11a_signers
+SigMeanE2e,81.6,s11a_signers
+SigMeanE2edefault,62.3,s11a_signers
+SigMinAcc,86.4,s11a_signers
+SigMinAccdefault,81.8,s11a_signers
+SigMinDetall,81.7,s11a_signers
+SigMinDetdefault,53.9,s11a_signers
+SigMinE2e,71.5,s11a_signers
+SigMinE2edefault,45.3,s11a_signers
+SigPooledEtoe,81.69,s11a_signers
+SigWorstLetters,"K (76.6%), Q (79.3%), R (79.7%), T (79.9%), E (81.4%)",s11a_signers
+SimDoubleAccCor,22.0,s9c_video
+SimDoubleAccRaw,0.0,s9c_video
+SimDoubleBroken,0,s9c_video
+SimDoubleCERCor,34.2,s9c_video
+SimDoubleCERRaw,29.9,s9c_video
+SimDoubleN,100,s9c_video
+SimNamesAccCor,6.7,s9c_video
+SimNamesAccRaw,26.7,s9c_video
+SimNamesBroken,6,s9c_video
+SimNamesCERCor,36.8,s9c_video
+SimNamesCERRaw,19.7,s9c_video
+SimNamesN,30,s9c_video
+SimTau,0.8,s9c_video
+SimWordsAccCor,62.0,s9c_video
+SimWordsAccRaw,35.7,s9c_video
+SimWordsBroken,0,s9c_video
+SimWordsCERCor,15.9,s9c_video
+SimWordsCERRaw,17.5,s9c_video
+SimWordsN,300,s9c_video
+SizeRatio,123,derived
+SpeedUp,617,derived
+SplitBlockedKNN,97.31 +- 0.38,s3_generalization
+SplitBlockedKNNMean,97.31,derived
+SplitBlockedMLP,98.35 +- 0.30,s3_generalization
+SplitBlockedMLPMean,98.35,derived
+SplitBlockedSVM,98.18 +- 0.38,s3_generalization
+SplitBlockedSVMMean,98.18,derived
+SplitGapKNN,1.66,s3_generalization
+SplitGapMLP,0.88,s3_generalization
+SplitGapSVM,0.85,s3_generalization
+SplitRandomKNN,98.97 +- 0.12,s3_generalization
+SplitRandomKNNMean,98.97,derived
+SplitRandomMLP,99.23 +- 0.18,s3_generalization
+SplitRandomMLPMean,99.23,derived
+SplitRandomSVM,99.03 +- 0.12,s3_generalization
+SplitRandomSVMMean,99.03,derived
+SurreyGapangles,8.95,s3_generalization
+SurreyGaphybrid,7.87,s3_generalization
+SurreyGapnorm,7.45,s3_generalization
+SurreyGapraw,7.66,s3_generalization
+SurreyGaprot,8.78,s3_generalization
+SurreyLOSOMLPangles,87.81 +- 3.14,s3_generalization
+SurreyLOSOMLPanglesMean,87.81,derived
+SurreyLOSOMLPanglesMin,84.12,s3_generalization
+SurreyLOSOMLPhybrid,90.00 +- 3.60,s3_generalization
+SurreyLOSOMLPhybridMean,90.00,derived
+SurreyLOSOMLPhybridMin,83.74,s3_generalization
+SurreyLOSOMLPnorm,90.57 +- 2.77,s3_generalization
+SurreyLOSOMLPnormMean,90.57,derived
+SurreyLOSOMLPnormMin,86.44,s3_generalization
+SurreyLOSOMLPraw,90.46 +- 2.70,s3_generalization
+SurreyLOSOMLPrawMean,90.46,derived
+SurreyLOSOMLPrawMin,87.75,s3_generalization
+SurreyLOSOMLProt,88.79 +- 3.18,s3_generalization
+SurreyLOSOMLProtMean,88.79,derived
+SurreyLOSOMLProtMin,84.32,s3_generalization
+SurreyLOSOSVMnorm,89.57 +- 3.64,s3_generalization
+SurreyLOSOSVMnormMean,89.57,derived
+SurreyLOSOSVMnormMin,83.85,s3_generalization
+SurreyN,"59,206",s3_generalization
+SurreySeenMLPangles,96.76 +- 0.17,s3_generalization
+SurreySeenMLPanglesMean,96.76,derived
+SurreySeenMLPanglesMin,96.55,s3_generalization
+SurreySeenMLPhybrid,97.87 +- 0.13,s3_generalization
+SurreySeenMLPhybridMean,97.87,derived
+SurreySeenMLPhybridMin,97.65,s3_generalization
+SurreySeenMLPnorm,98.02 +- 0.27,s3_generalization
+SurreySeenMLPnormMean,98.02,derived
+SurreySeenMLPnormMin,97.84,s3_generalization
+SurreySeenMLPraw,98.13 +- 0.24,s3_generalization
+SurreySeenMLPrawMean,98.13,derived
+SurreySeenMLPrawMin,97.87,s3_generalization
+SurreySeenMLProt,97.57 +- 0.25,s3_generalization
+SurreySeenMLProtMean,97.57,derived
+SurreySeenMLProtMin,97.23,s3_generalization
+SurreySeenSVMnorm,98.36 +- 0.10,s8_seeds
+SurreySeenSVMnormMean,98.36,derived
+SurreySigners,5,s3_generalization
+TauStar,0.55,s4_calibration
+Temperature,1.14,s4_calibration
+ThrDelN,"1,701",s11d_threshold
+ThrDelToSpaceCoverage,94.09,s11d_threshold
+ThrDelToSpaceEvalReject,92.25,s11d_threshold
+ThrDelToSpaceSelAcc,99.95,s11d_threshold
+ThrDelToSpaceSelReject,98.82,s11d_threshold
+ThrDelToSpaceTau,0.985,s11d_threshold
+ThrDelToSpaceTrans25,33.88,s11d_threshold
+ThrDelToSpaceTrans50,78.34,s11d_threshold
+ThrFixedDelReject,67.61,s11d_threshold
+ThrFixedSpaceReject,59.26,s11d_threshold
+ThrFixedTrans25,11.94,s11d_threshold
+ThrFixedTrans50,39.04,s11d_threshold
+ThrSpaceN,"1,625",s11d_threshold
+ThrSpaceToDelCoverage,91.07,s11d_threshold
+ThrSpaceToDelEvalReject,99.82,s11d_threshold
+ThrSpaceToDelSelAcc,99.97,s11d_threshold
+ThrSpaceToDelSelReject,96.68,s11d_threshold
+ThrSpaceToDelTau,0.995,s11d_threshold
+ThrSpaceToDelTrans25,44.90,s11d_threshold
+ThrSpaceToDelTrans50,86.28,s11d_threshold
+ThumbDropFist,12.7,s2_main
+ThumbDropRest,10.0,s2_main
+TopJoints,"4 (thumb, 37.4 pp), 8 (index, 36.3 pp), 16 (ring, 15.8 pp)",s2_main
+TransN,"5,000",s9c_video
+TransReject25,11.94,s9c_video
+TransReject50,39.04,s9c_video
+TunedBKNN,99.20,s10_tuned
+TunedBSVM,99.26,s10_tuned
+TunedBlockedKNN,97.51 +- 0.40,s10_tuned
+TunedBlockedKNNMean,97.51,derived
+TunedBlockedSVM,98.46 +- 0.28,s10_tuned
+TunedBlockedSVMMean,98.46,derived
+TunedCrossSurreyKNN,15.76,s10_tuned
+TunedCrossSurreySVM,18.31,s10_tuned
+TunedCrossTestKNN,84.07,s10_tuned
+TunedCrossTestSVM,84.86,s10_tuned
+TunedKNNAcc,99.20,s9b_tuning
+TunedKNNParams,"n neighbors=1, weights=uniform",s9b_tuning
+TunedLOSOKNN,85.13 +- 2.93,s10_tuned
+TunedLOSOKNNMean,85.13,derived
+TunedLOSOSVM,89.46 +- 3.38,s10_tuned
+TunedLOSOSVMMean,89.46,derived
+TunedLRAcc,98.74,s9b_tuning
+TunedLRParams,C=100,s9b_tuning
+TunedMcNemarKNN,0.040,s10_tuned
+TunedMcNemarKNNRel,=0.040,s10_tuned
+TunedMcNemarKNNb,51,s10_tuned
+TunedMcNemarKNNc,75,s10_tuned
+TunedMcNemarSVM,0.002,s10_tuned
+TunedMcNemarSVMRel,=0.002,s10_tuned
+TunedMcNemarSVMb,32,s10_tuned
+TunedMcNemarSVMc,63,s10_tuned
+TunedRFAcc,99.06,s9b_tuning
+TunedRFParams,"max features=sqrt, n estimators=600",s9b_tuning
+TunedSVMAcc,99.26,s9b_tuning
+TunedSVMParams,"C=100, gamma=scale",s9b_tuning
+UnknownN,"3,326",s4_calibration
+WorstClasses,"N (93.18%), M (94.08%), I (98.54%)",s2_main

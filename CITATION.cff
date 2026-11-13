@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, the models or the landmarks, please cite the paper below."
+title: "Hand-Landmark Recognition of ASL Fingerspelling: code, models and landmarks"
+authors:
+  - family-names: Ponnala
+    given-names: Ramesh
+    orcid: "https://orcid.org/0000-0002-4226-1212"
+  - family-names: Kaleem
+    given-names: Md.
+    orcid: "https://orcid.org/0009-0009-5643-299X"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Hand-Landmark Recognition of ASL Fingerspelling: How Well Does It Generalize, and When Should It Abstain?"
+  authors:
+    - family-names: Ponnala
+      given-names: Ramesh
+      orcid: "https://orcid.org/0000-0002-4226-1212"
+    - family-names: Kaleem
+      given-names: Md.
+      orcid: "https://orcid.org/0009-0009-5643-299X"
+  journal: "IEEE Access"
+  year: 2026

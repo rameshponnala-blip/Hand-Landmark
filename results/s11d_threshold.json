@@ -1,0 +1,22 @@
+{
+ "ThrDelN": "1,701",
+ "ThrSpaceN": "1,625",
+ "ThrDelToSpaceTau": "0.985",
+ "ThrDelToSpaceSelReject": "98.82",
+ "ThrDelToSpaceEvalReject": "92.25",
+ "ThrDelToSpaceCoverage": "94.09",
+ "ThrDelToSpaceSelAcc": "99.95",
+ "ThrDelToSpaceTrans25": "33.88",
+ "ThrDelToSpaceTrans50": "78.34",
+ "ThrSpaceToDelTau": "0.995",
+ "ThrSpaceToDelSelReject": "96.68",
+ "ThrSpaceToDelEvalReject": "99.82",
+ "ThrSpaceToDelCoverage": "91.07",
+ "ThrSpaceToDelSelAcc": "99.97",
+ "ThrSpaceToDelTrans25": "44.90",
+ "ThrSpaceToDelTrans50": "86.28",
+ "ThrFixedDelReject": "67.61",
+ "ThrFixedSpaceReject": "59.26",
+ "ThrFixedTrans25": "11.94",
+ "ThrFixedTrans50": "39.04"
+}

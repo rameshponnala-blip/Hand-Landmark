@@ -1,0 +1,20 @@
+{
+ "TunedBSVM": "99.26",
+ "TunedMcNemarSVM": "0.002",
+ "TunedMcNemarSVMb": "32",
+ "TunedMcNemarSVMc": "63",
+ "TunedMcNemarSVMRel": "=0.002",
+ "TunedBKNN": "99.20",
+ "TunedMcNemarKNN": "0.040",
+ "TunedMcNemarKNNb": "51",
+ "TunedMcNemarKNNc": "75",
+ "TunedMcNemarKNNRel": "=0.040",
+ "TunedBlockedSVM": "98.46 $\\pm$ 0.28",
+ "TunedLOSOSVM": "89.46 $\\pm$ 3.38",
+ "TunedBlockedKNN": "97.51 $\\pm$ 0.40",
+ "TunedLOSOKNN": "85.13 $\\pm$ 2.93",
+ "TunedCrossTestSVM": "84.86",
+ "TunedCrossTestKNN": "84.07",
+ "TunedCrossSurreySVM": "18.31",
+ "TunedCrossSurreyKNN": "15.76"
+}

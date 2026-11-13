@@ -1,0 +1,19 @@
+# Python 3.12. Install with:
+#   python -m venv .venv
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu126
+joblib==1.6.0
+kagglehub==1.0.2
+matplotlib==3.11.2
+mediapipe==0.10.20
+numpy==1.26.4
+onnx==1.22.0
+onnxruntime==1.31.0
+opencv-contrib-python==4.11.0.86
+pandas==3.0.6
+pillow==12.3.0
+pyspellchecker==0.9.1
+python-docx==1.2.0
+scikit-learn==1.9.1
+scipy==1.17.1
+torch==2.14.1+cu126
+torchvision==0.29.1+cu126

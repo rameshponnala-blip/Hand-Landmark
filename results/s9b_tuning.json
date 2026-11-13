@@ -1,0 +1,10 @@
+{
+ "TunedLRAcc": "98.74",
+ "TunedLRParams": "C=100",
+ "TunedKNNAcc": "99.20",
+ "TunedKNNParams": "n neighbors=1, weights=uniform",
+ "TunedSVMAcc": "99.26",
+ "TunedSVMParams": "C=100, gamma=scale",
+ "TunedRFAcc": "99.06",
+ "TunedRFParams": "max features=sqrt, n estimators=600"
+}

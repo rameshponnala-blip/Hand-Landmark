@@ -1,0 +1,18 @@
+{
+ "CNNTrainMin": "117",
+ "CNNTestAcc": "99.94",
+ "CNNTestF1": "99.94",
+ "CNNParams": "2,257,178",
+ "McNemarCNN": "$<$0.001",
+ "McNemarCNNb": "7",
+ "McNemarCNNc": "120",
+ "CrossTestCNNAll": "31.15",
+ "CrossTestCNN": "30.94",
+ "CrossTestCNNF1": "27.26",
+ "CrossSurreyCNNAll": "5.61",
+ "CrossSurreyCNN": "5.95",
+ "CrossSurreyCNNF1": "3.01",
+ "CNNLat": "5.55",
+ "CNNFPS": "180",
+ "CNNSize": "8790.5"
+}

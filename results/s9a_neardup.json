@@ -1,0 +1,18 @@
+{
+ "DupSSIMMedian": "0.911",
+ "DupSSIMLow": "0.833",
+ "RandSSIMMedian": "0.574",
+ "DupFrameGapMedian": "2",
+ "DupFrameGapP90": "16",
+ "NearDupRandom2": "92.0",
+ "BlockDup25": "54.8",
+ "BlockAcc25": "98.90",
+ "BlockDup50": "42.9",
+ "BlockAcc50": "98.86",
+ "BlockDup100": "36.1",
+ "BlockAcc100": "98.40",
+ "BlockDup200": "28.3",
+ "BlockAcc200": "97.94",
+ "BlockDup400": "24.2",
+ "BlockAcc400": "98.04"
+}

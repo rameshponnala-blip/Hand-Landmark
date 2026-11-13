@@ -1,0 +1,12 @@
+{
+ "CNNCropTrainMin": "11",
+ "CNNCropTestAcc": "99.88",
+ "CNNCropTestF1": "99.88",
+ "McNemarCNNCrop": "$<$0.001",
+ "McNemarCNNCropb": "2",
+ "McNemarCNNCropc": "108",
+ "CrossTestCNNCrop": "75.72",
+ "CrossTestCNNCropF1": "74.16",
+ "CrossSurreyCNNCrop": "28.43",
+ "CrossSurreyCNNCropF1": "25.06"
+}
